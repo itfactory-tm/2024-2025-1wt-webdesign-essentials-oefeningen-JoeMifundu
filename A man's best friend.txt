@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Website portfolio">
+    <meta name="author" content="Joe Duma Mifundu">
+    <link rel="shortcut icon" href="assets/favicon.ico"/>
+
+    <title>A man's best friend</title>
+</head>
+<body>
+<h1>
+    A man's best friend
+</h1>
+<nav>
+    <ul>
+        <li>History of domestication</li>
+        <li>Dogs in recent history</li>
+        <li>Dogs as professionals</li>
+        <li>The right dog for you</li>
+    </ul>
+</nav>
+
+<!--text generated from chatgpt-->
+<p>
+    A man’s best friend is more than just a saying—it’s a timeless testament to the bond between humans and their canine
+    companions. For centuries, dogs have played vital roles in human lives, from hunting and guarding to simply being a
+    trusted presence by our side. This connection transcends utility, evolving into a deep, emotional relationship built
+    on trust, loyalty, and unconditional love.
+</p>
+<p>
+    Dogs possess an uncanny ability to sense emotions, often providing comfort when words fail. They are there to greet
+    us after long days, tails wagging and hearts full, as if our return is the highlight of their lives. In moments of
+    sadness, their quiet companionship can be more soothing than any spoken assurance. This unwavering loyalty is what
+    earns them the title of "man’s best friend," a role they fulfill without expectation of reward.
+</p>
+<p>
+    Beyond their emotional support, dogs teach us valuable life lessons. Their enthusiasm for the small joys in life—a
+    walk in the park, a game of fetch, or a simple cuddle—reminds us to find happiness in the present moment. They show
+    us the power of forgiveness, never holding grudges and always ready to mend fences. For many, the bond with a dog is
+    one of the purest forms of love, marked by mutual care and respect.
+</p>
+<p>
+    In every way, dogs enrich our lives, making them more vibrant and meaningful. They are our protectors, our
+    confidants, and our closest friends, leaving paw prints not just on our floors, but on our hearts. Truly, a man’s
+    best friend is a blessing that we are fortunate to have by our side.
+</p>
+<h2></h2>
+<h3></h3>
+<footer>
+    <a href="mailto:r1053402@student.thomasmore.be">Contact me</a>
+</footer>
+</body>
