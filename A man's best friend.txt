@@ -9,9 +9,7 @@
     <title>A man's best friend</title>
 </head>
 <body>
-<h1>
-    A man's best friend
-</h1>
+
 <nav>
     <ul>
         <li>History of domestication</li>
@@ -21,7 +19,14 @@
     </ul>
 </nav>
 
+<h1>
+    A man's best friend
+</h1>
+
 <!--text generated from chatgpt-->
+
+
+
 <p>
     A man’s best friend is more than just a saying—it’s a timeless testament to the bond between humans and their canine
     companions. For centuries, dogs have played vital roles in human lives, from hunting and guarding to simply being a
@@ -45,8 +50,7 @@
     confidants, and our closest friends, leaving paw prints not just on our floors, but on our hearts. Truly, a man’s
     best friend is a blessing that we are fortunate to have by our side.
 </p>
-<h2></h2>
-<h3></h3>
+
 <footer>
     <a href="mailto:r1053402@student.thomasmore.be">Contact me</a>
 </footer>
